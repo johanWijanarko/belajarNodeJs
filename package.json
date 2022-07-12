@@ -1,0 +1,22 @@
+{
+  "name": "belajarnodejs",
+  "version": "1.0.0",
+  "description": "belajar basic nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johanWijanarko/belajarNodeJs.git"
+  },
+  "author": "johan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johanWijanarko/belajarNodeJs/issues"
+  },
+  "homepage": "https://github.com/johanWijanarko/belajarNodeJs#readme",
+  "dependencies": {
+    "nodash": "^0.12.0"
+  }
+}
